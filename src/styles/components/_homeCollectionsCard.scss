@@ -1,0 +1,27 @@
+.home-collection-card{
+    cursor: pointer;
+    .home-collection-card-img{
+        width: 238px;
+        height: 178px;
+        margin-bottom: 10px;
+        img{
+            width: 100%;
+            height: auto;
+            border-radius: 20px;
+        }
+        .home-collection-card-name{
+            font-size: 17px;
+            font-weight: 400;
+            line-height: 24px;
+            color: #000;
+            transition: all .2s cubic-bezier(.4,0,.2,1) 70ms;
+        }
+    }
+    &:hover{
+        .home-collection-card-name{
+            color: #f42c37;
+            font-weight: 800;
+            transition: all .2s cubic-bezier(.4,0,.2,1) 70ms;
+        }
+    }
+}

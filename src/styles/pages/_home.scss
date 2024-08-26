@@ -1,0 +1,280 @@
+.hero{
+    .hero-content{
+        height: 550px;
+        width: 100%;
+        background: #444;
+        border-radius: 20px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        .hero-bg{
+            height: 500px;
+            width: 700px;
+            margin-left: 50px;
+            img{
+                width: 100%;
+                height: auto;
+            }
+        }
+        .hero-title{
+            margin-right: 10px;
+            .h1{
+                font-size: 40px;
+                font-weight: 600;
+                letter-spacing: 2px;
+                color: #fff;
+                text-shadow: 0px 0px 10px rgba(0, 0, 0, .3);
+                text-align: right;
+            }
+            .h2{
+                font-size: 70px;
+                font-weight: 700;
+                letter-spacing: -2px;
+                color: #fff;
+                text-align: right;
+            }
+            .h3{
+                font-size: 100px;
+                font-weight: 900;
+                text-transform: uppercase;
+                letter-spacing: -2.9px;
+                color: #fff;
+            }
+        }
+    }
+}
+
+.elements{
+    margin-top: 60px;
+    .elements-content{
+        .icons-cards{
+            display: flex;
+            justify-content: space-between;
+            gap: 20px;
+            flex-wrap: wrap;
+        }
+    }
+}
+
+.natural-product{
+    margin-top: 300px;
+    margin-bottom: 150px;
+}
+
+.home-collections{
+    padding-top: 50px;
+    .home-collections-content{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        .home-collections-title{
+            font-size: 45px;
+            font-weight: 700;
+            line-height: 68px;
+            letter-spacing: -1.7px;
+        }
+        .home-collections-description{
+            line-height: 23px;
+            color: rgba(0, 0, 0, .6);
+            font-size: 16px;
+            font-weight: 400;
+            margin-bottom: 50px;
+        }
+        .home-collections-cards{
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 55px;
+        }
+    }
+}
+
+@media only screen and (max-width: 1080px) {
+    .hero{
+        .hero-content{
+            height: 500px;
+            .hero-bg{
+                width: 600px;
+                height: 400px;
+                margin-left: 45px;
+            }
+        }
+    }
+    
+}
+@media only screen and (max-width: 994px){
+    .natural-product{
+        margin-top: 50px;
+        margin-bottom: 50px;
+    }
+}
+
+@media only screen and (max-width: 920px) {
+    .hero{
+        .hero-content{
+            height: 450px;
+            .hero-bg{
+                width: 500px;
+                height: 300px;
+                margin-left: 40px;
+            }
+            .hero-title{
+                .h1{
+                    font-size: 20px;
+                }
+                .h2{
+                    font-size: 50px;
+                }
+                .h3{
+                    font-size: 80px;
+                }
+            }
+        }
+    }
+    
+}
+
+@media only screen and (max-width: 768px) {
+    .hero{
+        .hero-content{
+            height: 350px;
+            .hero-bg{
+                width: 500px;
+                height: 300px;
+                margin-left: 35px;
+            }
+            .hero-title{
+                .h1{
+                    font-size: 15px;
+                }
+                .h2{
+                    font-size: 35px
+                }
+                .h3{
+                    font-size: 50px;
+                }
+            }
+        }
+    }
+    
+}
+@media only screen and (max-width: 764px){
+    .natural-product{
+        margin-top: 300px;
+        margin-bottom: 30px;
+    }
+    .home-collections{
+        padding-top: 30px;
+        .home-collections-content{
+            .home-collections-title{
+                font-size: 35px;
+                line-height: 50px;
+            }
+            .home-collections-description{
+                margin-bottom: 30px;
+            }
+        }
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    .hero{
+        .hero-content{
+            height: 250px;
+            .hero-bg{
+                width: 300px;
+                height: 200px;
+                margin-left: 30px;
+            }
+            .hero-title{
+                .h1{
+                    font-size: 13px;
+                    font-weight: 600;
+                }
+                .h2{
+                    font-size: 25px;
+                    font-weight: 700;
+                }
+                .h3{
+                    font-size: 30px;
+                    font-weight: 800;
+                }
+            }
+        }
+    }
+    .elements{
+        .elements-content{
+            .icons-cards{
+                justify-content: center;
+            }
+        }
+    }
+    
+}
+
+@media only screen and (max-width: 571px){
+    .home-collections{
+        .home-collections-content{
+            .home-collections-cards{
+                row-gap: 20px;
+                column-gap: 20px;
+            }
+        }
+    }
+}
+
+@media only screen and (max-width: 546px){
+    .natural-product{
+        margin-top: 230px;
+        margin-bottom: 50px;
+    }
+}
+@media only screen and (max-width: 500px){
+    .home-collections{
+        .home-collections-content{
+            .home-collections-title{
+                font-size: 30px;
+                line-height: 40px;
+            }
+        }
+    }
+}
+
+@media only screen and (max-width: 477px) {
+    .hero{
+        .hero-content{
+            height: 200px;
+            .hero-bg{
+                width: 200px;
+                height: 100px;
+                margin-left: 20px;
+            }
+            .hero-title{
+                .h1{
+                    font-size: 13px;
+                    font-weight: 600;
+                }
+                .h2{
+                    font-size: 25px;
+                    font-weight: 700;
+                }
+                .h3{
+                    font-size: 30px;
+                    font-weight: 800;
+                }
+            }
+        }
+    }
+    .elements{
+        margin-top: 30px;
+    }
+    .home-collections{
+        .home-collections-content{
+            .home-collections-title{
+                font-size: 28px;
+                line-height: 40px;
+            }
+        }
+    }
+    
+}

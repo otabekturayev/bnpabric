@@ -1,0 +1,27 @@
+.container{
+    max-width: 1450px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.d-flex{
+    display: flex;
+}
+
+.flex-center{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.justify-center{
+    justify-content: center;
+}
+
+.justify-between{
+    justify-content: space-between;
+}
+
+.items-center{
+    align-items: center;
+}

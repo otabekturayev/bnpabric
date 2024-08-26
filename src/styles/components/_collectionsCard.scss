@@ -1,0 +1,24 @@
+.collections-card{
+    width: 223px;
+    cursor: pointer;
+    .collections-card-img{
+        width: 223px;
+        margin-bottom: 10px;
+        img{
+            width: 100%;
+            height: auto;
+            border-radius: 20px;
+        }
+    }
+    .collections-card-name{
+        letter-spacing: -0.51px;
+        transition: all .2s cubic-bezier(.4,0,.2,1) 70ms;
+    }
+    &:hover{
+        .collections-card-name{
+            font-weight: 700;
+            color: #f42c37;
+            transition: all .2s cubic-bezier(.4,0,.2,1) 70ms;
+        }
+    }
+}

@@ -1,0 +1,103 @@
+{
+    "header": {
+        "home": "Bosh sahifa",
+        "collection": "Kolleksiya",
+        "about": "Biz haqimizda",
+        "contacts": "Kontaktlar"
+    },
+    "main": {
+        "home": {
+            "icons" : {
+                "icon-name-1" : "Bepul yetkazib berish",
+                "icon-p-1" : "Barcha buyurtmalar uchun bepul yetkazib berish",
+                "icon-name-2" : "Qaytish kafolati",
+                "icon-p-2" : "30 kunlik pul qaytarish kafolati",
+                "icon-name-3" : "Onlayn qo'llab-quvvatlash 24/7",
+                "icon-p-3" : "Texnik qo'llab-quvvatlash 24/7",
+                "icon-name-4" : "Xavfsiz to'lov",
+                "icon-p-4" : "Barcha to'lov usullari qabul qilinadi"
+            },
+            "section": {
+                "procent-text" : "Material sifati",
+                "title:": "Buxoro tabiiy mahsuloti",
+                "title-text": "ko'p yillar davomida butun dunyo bo'ylab foydalanish uchun paxta matolarini ishlab chiqaradi",
+                "button": "Kolleksiya"
+            },
+            "winter": "Qishki kollektsiya",
+            "autumn": "Kuzgi kollektsiya",
+            "summer": "Yozgi kollektsiya",
+            "news": "Yangiliklar"
+        },
+        "collection": {
+            "search" : "Bu yerdan qidiring",
+            "collection": "Kolleksiya",
+            "spring": "Bahoriy kollektsiya",
+            "winter": "Qishki kollektsiya",
+            "summer": "Yozgi kollektsiya",
+            "autumn": "Kuzgi kollektsiya",
+            "showing": "Ko'rsatish"
+        },
+        "about": {
+            "title": "Buxoro Tabiiy Mahsulot",
+            "text-1" : "Buxoro matolari, Eco sumkalar, Bukhara fabrics, Eco bags. Bizning fabrikamiz ko'p yillar davomida butun dunyo bo'ylab foydalanish uchun paxta matolarini ishlab chiqaradi.",
+            "text-2" : "Buxoro matolari, Eco sumkalar, Bukhara fabrics, Eco bags. Ushbu kompaniya 17 yildan beri mijozlarga xizmat ko'rsatib kelmoqda.",
+            "text-3" : "Buxoro matolari, Eco sumkalar, Bukhara fabrics, Eco bags. Kompaniyaning asosiy maqsadi yuqori sifatli va iqtisodiy jihatdan samarali mahsulotlarni ishlab chiqarishdir.",
+            "text-4" : "Buxoro matolari, Eco sumkalar, Bukhara fabrics, Eco bags. Ushbu kompaniyaning ishlab chiqarish jarayoni butunlay ekologik jihatdan toza.",
+            "text-5" : "Buxoro matolari, Eco sumkalar, Bukhara fabrics, Eco bags. Kompaniya mijozlarning talablari va takliflariga muvofiq istalgan turdagi paxta xom ashyosini ishlab chiqarishi mumkin.",
+            "text-6" : "Buxoro matolari, Eco sumkalar, Bukhara fabrics, Eco bags. Kompaniya O'zbekistonda DongJia to'quv mashinalarining rasmiy dileri hisoblanadi.",
+            "text-7" : "Buxoro matolari, Eco sumkalar, Bukhara fabrics, Eco bags. Ayni paytda 80 dan ortiq oila kompaniya obro'si va muvaffaqiyatiga o'z hissasini qo'shib, o'z oilalarini moddiy jihatdan ta'minlamoqda.",
+            "text-8" : "Buxoro matolari, Eco sumkalar, Bukhara fabrics, Eco bags. Ushbu talabni qondirish uchun 50 ta dastgoh yuqori tezlikda, uzluksiz ishlamoqda.",
+            "text-9" : "Buxoro matolari, Eco sumkalar, Bukhara fabrics, Eco bags. Biz oyiga 200-250 ming metr mato to'quv quvvatiga egamiz.",
+            "text-10" : "Buxoro matolari, Eco sumkalar, Bukhara fabrics, Eco bags. Mijozlarimizning yuqori talabiga binoan, kompaniya endi yuqori sifatli premium eco-sumkalar ishlab chiqarishni boshladi.",
+            "text-11" : "Buxoro matolari, Eco sumkalar, Bukhara fabrics, Eco bags. Bukhara Natural Product Company o'zining sodiq mijozlariga har doim xizmat ko'rsatishdan mamnun."
+        },
+        "contacts" : "Aloqa",
+        "product": {
+            "material" : "Material",
+            "pillowcase" : "Yostiq jildi",
+            "bed-sheet" : "Choyshab",
+            "duvet-cover": "Ko'rpa jildi",
+            "size": "O'lcham",
+            "manufacturer" : "Ishlab chiqaruvchi",
+            "category" : "Kategoriya",
+            "collection": "kollektsiya",
+            "description": {
+                "title" : "Tavsif",
+                "title-2": "Yotoq jihozlari to'plami Squares",
+                "title-3" : "Yotoq jihozlari qulaylik va go'zallik uchun mo'ljallangan maishiy buyum va yotoq xonasining dekoridir. Siz choyshablar, ko'rpalar, yostiqlar va boshqa aksessuarlarni o'z ichiga olgan turli xil to'plamlarni tanlashingiz mumkin. Ularning turli xil dizaynlari, nashrlari, kashtachiliklari yoki boshqa dizayn elementlari mavjud. Ular tozalashda oson va tezdir. Ular yumshoq materiallardan tayyorlangan bo'lib, sizning yotoq xonangizni qulay va chiroyli qiladi."
+            },
+            "reviews": {
+                "title": "Sharhlar",
+                "text": "Hozircha sharhlar yo'q",
+                "name": "Birinchi bo'lib sharh qoldiring",
+                "remember": "Sizning email manzilingiz nashr etilmaydi. Majburiy maydonlar * bilan belgilangan",
+                "rating": "Sizning baho *"
+            }
+        },
+        "news": {
+            "news-title": "Fikr qoldirish",
+            "remember": "Sizning email manzilingiz nashr etilmaydi. Majburiy maydonlar * bilan belgilangan",
+            "email": "Majburiy",
+            "website": "Vebsayt",
+            "comment": "Fikr",
+            "button": "Yuborish"
+        },
+        "similar-product": "O'xshash mahsulotlar"
+    },
+    "footer": {
+        "logo-subtitle": "'Bukhara Natural Product' ko'p yillar davomida butun dunyo bo'ylab foydalanish uchun paxta matolarini ishlab chiqaradi.",
+        "menu": {
+            "menu-title": "Menyu",
+            "home": "Bosh sahifa",
+            "collection": "Kolleksiya",
+            "about": "Biz haqimizda",
+            "contacts": "Kontaktlar"
+        },
+        "contacts-title": "Kontaktlar",
+        "email": {
+            "email-title": "Emailimizga obuna bo'ling",
+            "email-inner" : "Emailingizni kiriting",
+            "email-button": "Obuna bo'lish"
+        }
+    }
+}

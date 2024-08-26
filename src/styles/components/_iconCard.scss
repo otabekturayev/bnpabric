@@ -1,0 +1,21 @@
+.icon-card{
+    display: flex;
+    width: 276px;
+    gap: 10px;
+    .icon-card-text{
+        .icon-card-title{
+            font-size: 16px;
+            font-weight: 700;
+            line-height: 25px;
+            letter-spacing: -.3px;
+            color: #000;
+        }
+        .icon-card-description{
+            font-size: 15px;
+            font-weight: 400;
+            line-height: 19px;
+            letter-spacing: -.5px;
+            color: #aaa;
+        }
+    }
+}

@@ -1,0 +1,103 @@
+{
+    "header": {
+        "home": "Home",
+        "collection": "Collection",
+        "about": "About Us",
+        "contacts": "Contacts"
+    },
+    "main": {
+        "home": {
+            "icons" : {
+                "icon-name-1" : "Free shipping",
+                "icon-p-1" : "Free shipping on all orders",
+                "icon-name-2" : "Return Guarantee",
+                "icon-p-2" : "30 day money back",
+                "icon-name-3" : "Online support 24/7",
+                "icon-p-3" : "Technical support 24/7",
+                "icon-name-4" : "Secure payment",
+                "icon-p-4" : "All payment methods accepted"
+            },
+            "section": {
+                "procent-text" : "Material quality",
+                "title-text": "has been company that produces cotton fabrics for use all over the world for many years",
+                "button": "Collection"
+            },
+            "winter": "Winter collection",
+            "autumn": "Autumn collection",
+            "summer": "Summer collection",
+            "news": "News"
+        },
+        "collection": {
+            "search" : "Search Here",
+            "collection": "Collection",
+            "spring": "Spring Collection",
+            "winter": "Winter Collection",
+            "summer": "Summer Collection",
+            "autumn": "Autumn Collection",
+            "showing": "Showing"
+        },
+        "about": {
+            "title": "Bukhara Natural Product",
+            "text-1" : "Buxoro matolari, Eco sumkalar, Bukhara fabrics, Eco bagsOur factory has been a company that produces cotton fabrics for use all over the world for many years.",
+            "text-2" : "Buxoro matolari, Eco sumkalar, Bukhara fabrics, Eco bagsThis company has been serving customers for 17 years.",
+            "text-3" : "Buxoro matolari, Eco sumkalar, Bukhara fabrics, Eco bagsThe main goal of this company is to produce high quality and cost effective products.",
+            "text-4" : "Buxoro matolari, Eco sumkalar, Bukhara fabrics, Eco bagsThe production process of this company is completely environmentally friendly.",
+            "text-5" : "Buxoro matolari, Eco sumkalar, Bukhara fabrics, Eco bagsThe company can produce any types of cotton raw materials according to the requirements and suggestions of customers.",
+            "text-6" : "Buxoro matolari, Eco sumkalar, Bukhara fabrics, Eco bagsThe company is the official dealer of DongJia weaving machines in Uzbekistan.",
+            "text-7" : "Buxoro matolari, Eco sumkalar, Bukhara fabrics, Eco bagsCurrently, more than 80 families contribute to the prestige and success of the company by providing financially for their families.",
+            "text-8" : "Buxoro matolari, Eco sumkalar, Bukhara fabrics, Eco bagsTo meet this demand, 50 looms are running at high speed, non-stop.",
+            "text-9" : "Buxoro matolari, Eco sumkalar, Bukhara fabrics, Eco bagsWe have the capacity to weave 200-250,000 meters of fabric per month.",
+            "text-10" : "Buxoro matolari, Eco sumkalar, Bukhara fabrics, Eco bagsIn accordance with the high demand of our customers, the company has now launched the production of high-quality premium eco-bags.",
+            "text-11" : "Buxoro matolari, Eco sumkalar, Bukhara fabrics, Eco bagsBukhara Natural Product Company is pleased to serve its loyal customers at any time."
+
+        },
+        "contacts" : "Contact",
+        "product": {
+            "material" : "Material",
+            "pillowcase" : "Pillowcase",
+            "bed-sheet" : "Bed Sheet",
+            "duvet-cover": "Duvet Cover",
+            "size": "Size",
+            "manufacturer" : "Manufacturer",
+            "category" : "Category",
+            "collection": "collection",
+            "description": {
+                "title" : "Description",
+                "title-2": "Bedding set Squares",
+                "title-3" : "Bed linen is a household item and bedroom decor designed for comfort and beauty. You can choose from a variety of bed sets that include sheets, blankets, pillow crafts and other accessories. They have various designs, prints, embroideries or other design elements. They are easy and quick to clean and clean. They are made from soft materials and they make your bedrooms cozy and cozy."
+            },
+            "reviews": {
+                "title": "Reviews",
+                "text": "There are no reviews yet",
+                "name": "Be the first to review",
+                "remember": "Your email address will not be published. Required fields are marked *",
+                "rating": "Your rating *"
+            }
+        },
+        "news": {
+            "news-title": "Leave A Comment",
+            "remember": "Your email address will not be published. Required fields are marked *",
+            "email": "required",
+            "website": "Website",
+            "comment": "Comment",
+            "button": "Send"
+        },
+        "similar-product": "Similar products"
+    },
+    "footer": {
+        "logo-subtitle": "'Bukhara Natural Product' has been a company that produces cotton fabrics for many years for use all over the world.",
+        "menu": {
+            "menu-title": "Menu",
+            "home": "Home",
+            "collection": "Collection",
+            "about": "About Us",
+            "contacts": "Contacts"
+        },
+        "email": {
+            "email-title": "Subscribe to our email",
+            "email-inner" : "Enter Your Email",
+            "email-button": "Subscribe"
+
+        }
+    }
+}
